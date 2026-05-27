@@ -46,10 +46,6 @@ The dataset contains student engagement metrics, academic performance variables,
 - Confusion Matrix Evaluation
 - K-Means Clustering
 
-## Files
-
-- `student-id-HW3.ipynb` → Main Jupyter Notebook
-- `student-id-HW3.pdf` → Exported notebook report (optional)
 
 ## Project Goal
 
